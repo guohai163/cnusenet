@@ -1,63 +1,63 @@
-��Agent�иı�鿴��ʽ���Զ���鿴��ʽ! 
-���ӵĲ鿴���Զ���鿴��ʽ:
+在Agent中改变查看方式和自定义查看方式! 
+帖子的查看和自定义查看方式:
 
-��Agent������ѡ��˵�Group--view messages����ѡ��ͬ�Ĳ鿴��ʽ,����Ϊ:
+在Agent主窗口选择菜单Group--view messages即可选择不同的查看方式,依次为:
 
-All Messages(��������)
-Unread Messages(δ������)
-Unread Messages With Bodies(δ�������ݵ�����)
-Messages With Bodies(�����ݵ�����)
-Keep(�����������)
-Watch(�����ӵ�����)
-Ignored(�����Ե�����)
+All Messages(所有帖子)
+Unread Messages(未读帖子)
+Unread Messages With Bodies(未读有内容的帖子)
+Messages With Bodies(有内容的帖子)
+Keep(被保存的帖子)
+Watch(被监视的帖子)
+Ignored(被忽略的帖子)
 
-Ҳ���Ե������ӱ��ⴰ���ϲ��ı������ϵ�"All Messages"����,���ɵ����鿴��ʽѡ��
-��,Ҳ�������������б����ڵ�������Ҽ�,�ڿ�ݲ˵���ѡ��View Messages��ѡ��鿴��
-ʽ!
+也可以单击帖子标题窗口上部的标题栏上的"All Messages"文字,即可弹出查看方式选择窗
+口,也可以在讨论组列表窗口单击鼠标右键,在快捷菜单上选择View Messages来选择查看方
+式!
 
-������Щ����Agent������Ԥ��õļ��ֲ鿴��ʽ,����о������õĻ�,�������Զ����Լ�
-�Ĳ鿴��ʽ,ѡ��˵�Group--view messages--Manage Views...���ɵ���Manage Views(��
-������)�Ի���,��Add��ť���µĲ鿴��ʽ�������,Ȼ�󼴿���������������Լ�����Ҫ
-�Զ���鿴��ʽ��!
-
- 
-
-���ӵ�����:
-
-ѡ��˵�Group--Sort Messages by����ѡ�����ӵĲ�ͬ������ʽ,����Ϊ:
-
-Thread(����������)
-Subjeat(����������)
-Author(����������)
-Date(����������)
-Size(����С����)
-
-��Ҳ���Ե������ӱ��ⴰ���ϲ��ı������ϵ�����Thread,Subjeat,Author,Date,�����ٸ�
-�����ӵ�������ʽ!
+以上这些都是Agent给我们预设好的几种查看方式,如果感觉不够用的话,还可以自定义自己
+的查看方式,选择菜单Group--view messages--Manage Views...即可弹出Manage Views(查
+看管理)对话框,按Add按钮给新的查看方式起个名字,然后即可在下面的区域按照自己的需要
+自定义查看方式了!
 
  
 
-�������б��Ĳ鿴:
+帖子的排续:
 
-ѡ��Group--Show Groups and folders����ѡ���������б��Ĳ鿴��ʽ,����Ϊ:
+选择菜单Group--Sort Messages by即可选择帖子的不同排续方式,依次为:
 
-All Groups and Folders(��ʾ��������ļ���)
-Subscribed Groups and Folders(��ʾ���ĵ�����ļ���)
-New Groups(��ʾ�����ӵ���)
-Folders(��ʾ�ļ���)
+Thread(按线索排续)
+Subjeat(按主题排续)
+Author(按作者排续)
+Date(按日期排续)
+Size(按大小排续)
 
-��Ҳ���Ե����������б������ϲ��ı���������������Щ�鿴��ʽ��,���п����л�!
+你也可以单击帖子标题窗口上部的标题栏上的文字Thread,Subjeat,Author,Date,来快速改
+变帖子的排续方式!
 
  
 
-�ı䴰�ڲ���:
+讨论组列表的查看:
 
-��Agent������ѡ��window--window Layout(���ڲ���),�ᵯ�����ڲ������öԻ���,���Ժ�
-ֱ�۵������Լ�ϲ���Ĳ��ַ�ʽ,���úú�,��OKȷ��.����о������Ѿ���ȫ�����Լ���ϰ
-����,����ı���,����Agentÿ�������������ڵĲ��ַ�ʽ��,��ôѡ��˵�window--Save 
-As Default window Layout(����Ϊȱʡ���ڲ��ַ�ʽ).
+选择Group--Show Groups and folders即可选择讨论组列表的查看方式,依次为:
 
-������Agentÿ������ʱ�ᰴ�յ�ǰ�Ĵ��ڲ��ֳ���.
+All Groups and Folders(显示所有组和文件夹)
+Subscribed Groups and Folders(显示订阅的组和文件夹)
+New Groups(显示新增加的组)
+Folders(显示文件夹)
+
+你也可以单击讨论组列表窗口上部的标题栏来在以上这些查看方式中,进行快速切换!
+
+ 
+
+改变窗口布局:
+
+在Agent主窗口选择window--window Layout(窗口布局),会弹出窗口布局设置对话框,可以很
+直观的设置自己喜欢的布局方式,设置好后,按OK确定.如果感觉布局已经完全符合自己的习
+惯了,不想改变了,想让Agent每次启动都按现在的布局方式了,那么选择菜单window--Save 
+As Default window Layout(保存为缺省窗口布局方式).
+
+这样在Agent每次启动时会按照当前的窗口布局出现.
 
  
  

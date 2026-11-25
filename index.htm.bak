@@ -1,9 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<META NAME="keywords" content="º£Ñô,¸öÈËÍøÕ¾,Ð¡³æ×Ó,ÐÂÎÅ×é,Newsgroup,Agent,cn.*,ÖÐ¹úÐÂÎÅ×é">
-<META NAME="description" CONTENT="ÕâÀïÊÇ£¬½éÉÜcn.*ÐÂÎÅ×éµÄÍøÕ¾£¬±¾ÍøÕ¾ÓÉº£Ñô¹¤×÷ÊÒÖÆ×÷">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<META NAME="keywords" content="æµ·é˜³,ä¸ªäººç½‘ç«™,å°è™«å­,æ–°é—»ç»„,Newsgroup,Agent,cn.*,ä¸­å›½æ–°é—»ç»„">
+<META NAME="description" CONTENT="è¿™é‡Œæ˜¯ï¼Œä»‹ç»cn.*æ–°é—»ç»„çš„ç½‘ç«™ï¼Œæœ¬ç½‘ç«™ç”±æµ·é˜³å·¥ä½œå®¤åˆ¶ä½œ">
 <title>cn.* checkgroups</title>
 <link href="css.css" rel="stylesheet" type="text/css">
 </head>
@@ -18,13 +18,13 @@
       <td><hr noshade color="#004F8F"></td>
     </tr>
     <tr> 
-      <td><p>cn.*×îÐÂ¶¯Ì¬</p>
+      <td><p>cn.*æœ€æ–°åŠ¨æ€</p>
         <p> 
         <ul>
-          <li>¿ª×é <a href="news://news.cn99.com/cn.fan.auto"><font color="#0000FF">cn.fan.auto</font></a> 
-            °®ºÃÕß--Æû³µ (Week, 16 Jul 2003)</li>
-          <li>¿ª×é cn.binaries.arts.pictures ÒÕÊõÍ¼Æ¬¡¢ÕÕÆ¬ (Tues, 12 Nov 2002)</li>
-          <li>.ISC µÄ¿ØÖÆÎÄ¼þÒÑ¾­ÕýÊ½·ÅÈë CN.* (Tues, 18 Sep 2001)</li>
+          <li>å¼€ç»„ <a href="news://news.cn99.com/cn.fan.auto"><font color="#0000FF">cn.fan.auto</font></a> 
+            çˆ±å¥½è€…--æ±½è½¦ (Week, 16 Jul 2003)</li>
+          <li>å¼€ç»„ cn.binaries.arts.pictures è‰ºæœ¯å›¾ç‰‡ã€ç…§ç‰‡ (Tues, 12 Nov 2002)</li>
+          <li>.ISC çš„æŽ§åˆ¶æ–‡ä»¶å·²ç»æ­£å¼æ”¾å…¥ CN.* (Tues, 18 Sep 2001)</li>
         </ul></td>
     </tr>
     <tr> 
@@ -37,58 +37,58 @@
       <td></td>
     </tr>
     <tr> 
-      <td>¹ØÓÚ cn.* 
+      <td>å…³äºŽ cn.* 
         <ul type="square">
-          <li><a href="cn.txt"><font color="#0000FF">cn.*ÁÐ±í </font></a>[²»°üº¬cn.bbs.*]</li>
-          <li><a href="newsg.txt"><font color="#0000FF">cn.*ÉêÇë¿ª×é¹ý³Ì</font></a> 
+          <li><a href="cn.txt"><font color="#0000FF">cn.*åˆ—è¡¨ </font></a>[ä¸åŒ…å«cn.bbs.*]</li>
+          <li><a href="newsg.txt"><font color="#0000FF">cn.*ç”³è¯·å¼€ç»„è¿‡ç¨‹</font></a> 
           </li>
-          <li><a href="http://groups.google.com/groups?hl=zh-CN&lr=&ie=UTF-8&group=cn.admin"><font color="#0000FF">cn.admin×éµÄWEB°æ</font></a> 
-            [GOOGLE¾µÏñ]</li>
+          <li><a href="http://groups.google.com/groups?hl=zh-CN&lr=&ie=UTF-8&group=cn.admin"><font color="#0000FF">cn.adminç»„çš„WEBç‰ˆ</font></a> 
+            [GOOGLEé•œåƒ]</li>
         </ul></td>
     </tr>
     <tr> 
       <td><hr noshade color="#004F8F"></td>
     </tr>
     <tr> 
-      <td>¶Ôcn.*½øÐÐ×ªÐÅµÄ·þÎñÆ÷</td>
+      <td>å¯¹cn.*è¿›è¡Œè½¬ä¿¡çš„æœåŠ¡å™¨</td>
     </tr>
     <tr>
       <td><table width="620" border="0" cellspacing="1">
           <tr> 
-            <td width="150"> <div align="center">·þÎñÆ÷ÓòÃû</div></td>
-            <td width="150"> <div align="center">IPµØÖ·</div></td>
-            <td width="150"> <div align="center">¹ÜÀíÕßÓÊÏä</div></td>
-            <td width="150"> <div align="center">¸½×¢ËµÃ÷</div></td>
+            <td width="150"> <div align="center">æœåŠ¡å™¨åŸŸå</div></td>
+            <td width="150"> <div align="center">IPåœ°å€</div></td>
+            <td width="150"> <div align="center">ç®¡ç†è€…é‚®ç®±</div></td>
+            <td width="150"> <div align="center">é™„æ³¨è¯´æ˜Ž</div></td>
           </tr>
        <tr> 
             <td><div align="left">news.cn99.com</div></td>
             <td><div align="center">202.108.36.140</div></td>
             <td><div align="center">ppyy@staff.cn99.com</div></td>
-            <td><div align="center">Ö»¶Ô¹úÄÚIP¿ª·Å</div></td>
+            <td><div align="center">åªå¯¹å›½å†…IPå¼€æ”¾</div></td>
           </tr>
           <tr> 
             <td><div align="left">news.yaako.com</div></td>
             <td><div align="center">61.132.102.122</div></td>
             <td><div align="center">ppyy@staff.cn99.com</div></td>
-            <td><div align="center">Ö»¶Ô¹úÄÚIP¿ª·Å</div></td>
+            <td><div align="center">åªå¯¹å›½å†…IPå¼€æ”¾</div></td>
           </tr>
           <tr> 
             <td><div align="left">news.cis.dfn.de</div></td>
             <td><div align="center">130.133.1.4</div></td>
             <td><div align="center"></div></td>
-            <td><div align="center">ÐèÒª×¢²á²ÅÄÜ·¢Ìù</div></td>
+            <td><div align="center">éœ€è¦æ³¨å†Œæ‰èƒ½å‘è´´</div></td>
           </tr>
           <tr> 
             <td><div align="left">freenews.netfront.net</div></td>
             <td><div align="center">202.177.16.121</div></td>
             <td><div align="center"></div></td>
-            <td><div align="center">·þÎñÆ÷ÔÚÏã¸Û</div></td>
+            <td><div align="center">æœåŠ¡å™¨åœ¨é¦™æ¸¯</div></td>
           </tr>
           <tr> 
             <td><div align="left">test.news-service.com</div></td>
             <td><div align="center">195.114.230.45</div></td>
             <td><div align="center"></div></td>
-            <td><div align="center">·þÎñÆ÷ÔÚºÉÀ¼</div></td>
+            <td><div align="center">æœåŠ¡å™¨åœ¨è·å…°</div></td>
           </tr>
           <tr> 
             <td><div align="left"></div></td>
@@ -102,33 +102,33 @@
       <td><hr noshade color="#004F8F"></td>
     </tr>
     <tr> 
-      <td><p>¹ØÓÚ UseNet ×ÊÁÏ</p>
+      <td><p>å…³äºŽ UseNet èµ„æ–™</p>
         <ul type="circle">
-          <li><a href="http://www.cn99.com/cgi-bin/get_lsts?listname=newsgroup" target="_blank"><font color="#0000FF">ÖÐ¹úÐÂÎÅ×éÁªÃË</font></a> 
-            [Ò»¸öÐû´«cn.*µÄµç×ÓÓÊ¼þÁÐ±í£¬Ä¿Ç°ÎªÃ¿ÔÂÒ»ÆÚ]</li>
-          <li><a href="data/0e09.PDF"><font color="#0000FF">¼ÓÈëUSENETÐÂÎÅ×é</font></a>_<a href="data/0e09a.PDF"><font color="#0000FF">Ä¿Â¼</font></a> 
-            [Ò»±¾Íâ¹úÈËÐ´µÄ½éÉÜUSENETµÄÊé£¬ÊÇÎÒ¼û¹ýµÄ×îÈ«µÄ£¬PDFÎÄµµ£¬ºº»¯°æ]</li>
+          <li><a href="http://www.cn99.com/cgi-bin/get_lsts?listname=newsgroup" target="_blank"><font color="#0000FF">ä¸­å›½æ–°é—»ç»„è”ç›Ÿ</font></a> 
+            [ä¸€ä¸ªå®£ä¼ cn.*çš„ç”µå­é‚®ä»¶åˆ—è¡¨ï¼Œç›®å‰ä¸ºæ¯æœˆä¸€æœŸ]</li>
+          <li><a href="data/0e09.PDF"><font color="#0000FF">åŠ å…¥USENETæ–°é—»ç»„</font></a>_<a href="data/0e09a.PDF"><font color="#0000FF">ç›®å½•</font></a> 
+            [ä¸€æœ¬å¤–å›½äººå†™çš„ä»‹ç»USENETçš„ä¹¦ï¼Œæ˜¯æˆ‘è§è¿‡çš„æœ€å…¨çš„ï¼ŒPDFæ–‡æ¡£ï¼Œæ±‰åŒ–ç‰ˆ]</li>
           <li><a href="data/Usenet-News-HOWTO.pdf"><font color="#0000FF">Usenet 
-            News HOWTO</font></a> [Ò»¸öÓ¢ÎÄÎÄµµ]</li>
-          <li><a href="data/usenet1.txt"><font color="#0000FF">Usenet¼°ÆäÓ¦ÓÃ</font>(Ò»)</a></li>
-          <li><a href="data/usenet2.txt"><font color="#0000FF">Usenet¼°ÆäÓ¦ÓÃ</font>(¶þ)</a></li>
-          <li><a href="data/usenet3.txt"><font color="#0000FF">Usenet¼°ÆäÓ¦ÓÃ</font>(Èý)</a></li>
-          <li><a href="data/usenet4.txt"><font color="#0000FF">Usenet¼°ÆäÓ¦ÓÃ</font>(ËÄ)</a></li>
-          <li><a href="data/usenet5.txt"><font color="#0000FF">Usenet¼°ÆäÓ¦ÓÃ</font>(Îå)</a></li>
+            News HOWTO</font></a> [ä¸€ä¸ªè‹±æ–‡æ–‡æ¡£]</li>
+          <li><a href="data/usenet1.txt"><font color="#0000FF">UsenetåŠå…¶åº”ç”¨</font>(ä¸€)</a></li>
+          <li><a href="data/usenet2.txt"><font color="#0000FF">UsenetåŠå…¶åº”ç”¨</font>(äºŒ)</a></li>
+          <li><a href="data/usenet3.txt"><font color="#0000FF">UsenetåŠå…¶åº”ç”¨</font>(ä¸‰)</a></li>
+          <li><a href="data/usenet4.txt"><font color="#0000FF">UsenetåŠå…¶åº”ç”¨</font>(å››)</a></li>
+          <li><a href="data/usenet5.txt"><font color="#0000FF">UsenetåŠå…¶åº”ç”¨</font>(äº”)</a></li>
         </ul></td>
     </tr>
     <tr> 
       <td><hr noshade color="#004F8F"></td>
     </tr>
     <tr> 
-      <td><p>·ÃÎÊUseNet¿Í»§¶ËÈí¼þ</p>
+      <td><p>è®¿é—®UseNetå®¢æˆ·ç«¯è½¯ä»¶</p>
         <ul>
           <ol>
-            <li><a href="agent/index.htm"><font color="#0000FF">Agent_×¨Ìâ </font></a>[×ÊÁÏÀ´×Ô<a href="http://laocui.vicp.net/"><font color="#0000FF">ÀÏ´ÞÖ÷Ò³</font></a>]</li>
-            <li><a href="data/oeusenet/index.htm"><font color="#0000FF">ÈçºÎÊ¹ÓÃOEµÇÂ½ÐÂÎÅ×é</font></a> 
-              [×ÊÁÏÓÉÐ¡³æ×ÓÌá¹©]</li>
-            <li><a href="data/xnews/index.htm"><font color="#0000FF">XnewsÔÄ¶ÁÐÂÎÅ×é</font></a> 
-              [<a href="data/xnews/TEST60216.ZIP"><font color="#0000FF">XNewsÏÂÔØ</font></a>] 
+            <li><a href="agent/index.htm"><font color="#0000FF">Agent_ä¸“é¢˜ </font></a>[èµ„æ–™æ¥è‡ª<a href="http://laocui.vicp.net/"><font color="#0000FF">è€å´”ä¸»é¡µ</font></a>]</li>
+            <li><a href="data/oeusenet/index.htm"><font color="#0000FF">å¦‚ä½•ä½¿ç”¨OEç™»é™†æ–°é—»ç»„</font></a> 
+              [èµ„æ–™ç”±å°è™«å­æä¾›]</li>
+            <li><a href="data/xnews/index.htm"><font color="#0000FF">Xnewsé˜…è¯»æ–°é—»ç»„</font></a> 
+              [<a href="data/xnews/TEST60216.ZIP"><font color="#0000FF">XNewsä¸‹è½½</font></a>] 
             </li>
           </ol>
         </ul></td>
@@ -140,7 +140,7 @@
       <td height="20">&nbsp;</td>
     </tr>
     <tr> 
-      <td><div align="right">×¢£ºÎªÁË·½±ã´ó¼ÒÒýÓÃ×ÊÔ´,±¾Õ¾´ó¶àÊý×ÊÁÏ¾ùÊ¹ÓÃ.txt ´æÎÄ±¾¸ñÊ½</div></td>
+      <td><div align="right">æ³¨ï¼šä¸ºäº†æ–¹ä¾¿å¤§å®¶å¼•ç”¨èµ„æº,æœ¬ç«™å¤§å¤šæ•°èµ„æ–™å‡ä½¿ç”¨.txt å­˜æ–‡æœ¬æ ¼å¼</div></td>
     </tr>
   </table>
 </div>
